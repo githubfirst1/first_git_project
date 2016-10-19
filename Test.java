@@ -15,5 +15,7 @@ public class HelloWorld {
 	  System.out.println("Hello, World Again");
 	  System.out.println("Hello, World Thrice");
    }
-   
+   private void demo() {
+	System.out.println("Hello, World Again");
+   }
 }
