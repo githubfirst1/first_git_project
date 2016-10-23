@@ -1,1 +1,2 @@
 This is the second file I added to my project
+This file can be used for any purpose
